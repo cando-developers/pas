@@ -1,0 +1,61 @@
+2020-07-05 18:12:11 [INFO] <KERNEL> Starting common-lisp kernel
+2020-07-05 18:12:11 [INFO] <KERNEL> Parsing connection file /Users/meister/Library/Jupyter/runtime/kernel-e1b9ecab-acd0-4506-a299-a7b758169d9b.json
+2020-07-05 18:12:11 [INFO] <MAC> Starting message authentification
+2020-07-05 18:12:11 [INFO] <MAC> Using signature scheme hmac-sha256 for message signing.
+2020-07-05 18:12:11 [INFO] <HB-CHANNEL> Starting channel on tcp://127.0.0.1:51284
+2020-07-05 18:12:11 [INFO] <IOPUB-CHANNEL> Starting channel on tcp://127.0.0.1:51282
+2020-07-05 18:12:11 [INFO] <HB-CHANNEL> Starting thread
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Starting channel on tcp://127.0.0.1:51281
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Starting thread
+2020-07-05 18:12:11 [INFO] <STDIN-CHANNEL> Starting channel on tcp://127.0.0.1:51283
+2020-07-05 18:12:11 [INFO] <CONTROL-CHANNEL> Starting channel on tcp://127.0.0.1:51285
+2020-07-05 18:12:11 [INFO] <CONTROL-CHANNEL> Starting thread
+2020-07-05 18:12:11 [INFO] <HISTORY> Starting history
+2020-07-05 18:12:11 [INFO] <KERNEL> Setting amber host pathname translation -> /Users/meister/Development/amber18/
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received kernel_info_request message
+2020-07-05 18:12:11 [INFO] <KERNEL> Handling kernel_info_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received kernel_info_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received comm_info_request message
+2020-07-05 18:12:11 [INFO] <KERNEL> Handling kernel_info_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <KERNEL> Handling comm_info_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <KERNEL> Handling execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received kernel_info_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:11 [INFO] <SHELL-CHANNEL> Received execute_request message
+2020-07-05 18:12:13 [INFO] <KERNEL> Handling execute_request message
+2020-07-05 18:12:13 [INFO] <KERNEL> Handling execute_request message
+2020-07-05 18:12:13 [INFO] <KERNEL> Handling execute_request message
